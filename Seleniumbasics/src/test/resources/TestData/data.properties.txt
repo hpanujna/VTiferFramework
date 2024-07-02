@@ -1,0 +1,3 @@
+url https://saucedemo.com/
+user standard_user
+pwd secret_sauce
